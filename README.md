@@ -8,7 +8,7 @@ What I created includes:
 
 - A dropdown menu to select which individual we would like information for.
 - A box with their demographic metadata information.
-- A bar chart with the top 10 bacterias present by their quantity.
+- A bar chart with the top 10 bacteria present by quantity.
 - A bubble chart with all the bacteria present and the bubble size reflecting bacteria quantity.
 - A gauge chart that reflects the number of belly button washes per week based on the individual selected.
 
